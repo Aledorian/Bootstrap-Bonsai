@@ -1,0 +1,127 @@
+.navbar, .policeBlanc {
+    background-color: transparent;
+    color: white;
+    border-color: transparent;
+    padding: 0px 10px 0px 10px
+}
+
+#rowHaut {
+    background-image: url("../images/payments-banner-graphic.png");
+    padding-bottom: 17%;
+}
+
+#btnFreeAccount {
+    background-color: white;
+    color: #808FDC;
+    border-color: transparent;
+    padding: 5px 20px 5px 20px;
+}
+
+.payment {
+    height: 75px;
+    width: 75px;
+}
+
+#rowPayment {
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px lightgray solid;
+}
+
+.payementSep {
+    border-right: 1px;
+    border-right-color: lightgray;
+    border-right-style: solid;
+}
+
+.pricing{
+  padding: 25px 0px 25px 0px;
+  background-color: #F6F9FB;
+}
+
+#policeViolet{
+  color: #8080BE;
+  font-size: 75px;
+}
+
+.transition{
+  background-color: #4C535C;
+  padding: 25px 0px 25px 0px;
+  font-size: 22px
+}
+
+h3{
+  color: #6D6D76;
+}
+
+.text{
+  padding: 150px 150px 120px 150px;
+  color: #AAAAAA;
+  font-size: 20px
+}
+
+
+.imgFonction{
+  height: 443px;
+}
+
+.caseimgFonctionBlue{
+  background-color: #7CD5EF;
+  padding: 100px 100px 0px 100px;
+}
+
+.caseimgFonctionViolet{
+  background-color: #8080BE;
+  padding: 100px 100px 0px 100px;
+}
+
+#inscription{
+  font-size: 20px;
+  padding: 50px 0px 50px 0px;
+  border-top: 1px lightgray solid;
+}
+
+#btnVert{
+  background-color: #00AA82;
+  color: white;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 10px 15px 10px 15px;
+}
+
+footer{
+  padding: 10px 15px 10px 15px;
+  background-color: #242629
+}
+
+.footerBG{
+    background-color: #242629;
+    padding: 75px 250px 75px 250px;
+}
+
+.footerList{
+  list-style: none;
+  font-size: 18px;
+}
+
+.listText{
+  color: #AAAAAA;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+
+.listContact{
+  color: #AAAAAA;
+  font-size: 14px;
+  padding-bottom: 25px
+}
+
+.listTitle{
+  color: #77776D;
+  padding-bottom: 25px;
+  font-size: 22px;
+}
+
+#credit{
+  color: #AAAAAA;
+  font-size: 12px;
+}
